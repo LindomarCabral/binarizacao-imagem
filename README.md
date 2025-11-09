@@ -40,7 +40,7 @@ binarizacao-imagem/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/binarizacao-imagem.git
+git clone https://github.com/LindomarCabral/binarizacao-imagem.git
 cd binarizacao-imagem
 ```
 
