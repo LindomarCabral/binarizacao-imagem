@@ -14,10 +14,10 @@ Implementar do zero (sem usar funções prontas de bibliotecas) o processo compl
 
 ## ✨ Destaques Técnicos
 
-🚫 **Não utiliza funções prontas** do OpenCV para conversões
-🧠 **Implementação manual** dos algoritmos fundamentais
-📊 **Controle total** sobre o processo de binarização
-🎨 **Resultados visuais** de alta qualidade
+🚫 **Não utiliza funções prontas** do OpenCV para conversões  
+🧠 **Implementação manual** dos algoritmos fundamentais  
+📊 **Controle total** sobre o processo de binarização  
+🎨 **Resultados visuais** de alta qualidade  
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -125,7 +125,15 @@ img_binaria = binarizar_imagem(img_cinza, limiar=60)  # Altere este valor
 
 ## 🎓 Contexto Acadêmico
 
-Este projeto foi desenvolvido como parte do estudo em **Processamento Digital de Imagens**, demonstrando a compreensão fundamental dos algoritmos por trás das funções de bibliotecas populares como OpenCV.
+Este projeto foi desenvolvido como parte da **Formação Machine Learning Specialist** da [Digital Innovation One (DIO)](https://www.dio.me/), ministrada pelo **Prof. Dr. Diego Bruno**. 
+
+O desafio proposto focava em:
+- **Redução de dimensionalidade** em imagens
+- **Implementação manual** de algoritmos fundamentais
+- **Compreensão profunda** dos processos de conversão de cores
+- **Otimização** de técnicas de pré-processamento para machine learning
+
+A abordagem do Prof. Dr. Diego Bruno enfatizou a importância de entender os algoritmos por trás das bibliotecas, desenvolvendo uma base sólida em processamento digital de imagens que é fundamental para aplicações avançadas em computer vision e deep learning.
 
 ## 🤝 Contribuições
 
@@ -141,6 +149,9 @@ Este projeto é open source e está disponível sob a [MIT License](LICENSE).
 
 ---
 
-**Desenvolvido com ❤️ para demonstrar habilidades avançadas em Python e Processamento de Imagens**
+**Desenvolvido com ❤️ como parte da Formação Machine Learning Specialist da DIO**
 
-*"Não basta saber usar as bibliotecas, é preciso entender os algoritmos por trás delas."*
+*Projeto educacional sob orientação do Prof. Dr. Diego Bruno*  
+*Digital Innovation One - Formando os especialistas em ML do futuro*
+
+*"Domine os fundamentos antes de usar as ferramentas."* - Prof. Dr. Diego Bruno
